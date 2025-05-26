@@ -1,7 +1,7 @@
 
 
 ¡Hola! Soy Jaime 👋  
-Desarrollador de Software | Full Stack Developer | Fan del fútbol & la IA 🤖⚽
+Desarrollador web en formación | Apasionado por la IA, la automatización y los proyectos tech que resuelven problemas reales ⚙️🧠
 
 ---
 
